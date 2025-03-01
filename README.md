@@ -4,7 +4,7 @@
 - 🌱 I’m learning in the University of Azad          Jammu and Kashmir, Muzaffarabad.<br>
 - 👯 I’m looking to collaborate on project of         C++.<br>
 - 💬 You can ask me about this repository.<br>
-- 🤙🏻☎️ <h4>How to reach me:</h4><br>
+- 🤙🏻☎️ <h4>How to reach me:</h4>
 - <h4>Contact:</h4>h4>03173878506/  03488949899.<br>
 - 📨 Email: jawahirmehboob975@gmail.com
-
+..............................................
