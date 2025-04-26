@@ -1,4 +1,8 @@
- Asslam O Alaikum, I’m @1Jawahir-Ali the student of Software Engineering at the University of Azad Jammu and Kashmir,Muzaffarabad 
+## About me:##
+ Asslam O Alaikum, I’m Jawahir Ali the student of Software Engineering at the University of Azad Jammu and Kashmir,Muzaffarabad 
+ Software Engineering Student
+
+
 
 <!--- 🌱 I’m currently learning the Software Engineering 
 - 💞️ I’m looking to collaborate on ...
