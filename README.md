@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding GIF">
-  <p><em>Let’s create impactful solutions together!</em></p>
+<!---  <p><em>Let’s create impactful solutions together!</em></p>-->
 </di>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
