@@ -1,21 +1,14 @@
 ## About me: 
- Asslam O Alaikum, I’m Jawahir Ali the student of Software Engineering at the University of Azad Jammu and Kashmir,Muzaffarabad 
- Software Engineering Student
-
-<h1 align="center">Hi 👋, I'm Jawahir Ali</h1>
-<h3 align="center">Software Engineering Student</h3>
-
+ <h1 align="center">Hi 👋, I'm Jawahir Ali</h1>
+<h3 align="center">Software Engineering Student  at the University of Azad Jammu and Kashmir,Muzaffarabad     </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1jawahir-ali&label=Profile%20views&color=0e75b6&style=flat" alt="1jawahir-ali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1jawahir-ali" alt="1jawahir-ali" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System**
-
 - 🌱 I’m currently learning **C++ Language**
 
-- 👯 I’m looking to collaborate on **Restaurant Management System**
+- 👯 I’m looking to collaborate on the projet by using concept of Object Oriented Programming.
 
-- 🤝 I’m looking for help with **Restaurant Management System**
 
 - 📫 How to reach me **jawahirmehboob975@gmail.com**
 
@@ -41,13 +34,26 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding GIF">
   <p><em>Let’s create impactful solutions together!</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/github-snake.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-
+</di>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--- 🌱 I’m currently learning the Software Engineering 
 - 💞️ I’m looking to collaborate on ...
