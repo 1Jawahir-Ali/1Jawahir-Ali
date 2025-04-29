@@ -32,6 +32,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1jawahir-ali&show_icons=true&locale=en" alt="1jawahir-ali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1jawahir-ali&" alt="1jawahir-ali" /></p>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding GIF">
+  <p><em>Let’s create impactful solutions together!</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/github-snake.svg" width="100%" alt="Contribution Snake" />
+</div>
+
 
 
 <!--- 🌱 I’m currently learning the Software Engineering 
