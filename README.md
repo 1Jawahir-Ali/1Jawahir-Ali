@@ -23,7 +23,7 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1jawahir-ali&show_icons=true&locale=en&layout=compact" alt="1jawahir-ali" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1jawahir-ali&show_icons=true&locale=en" alt="1jawahir-ali" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1jawahir-ali&" alt="1jawahir-ali" /></p>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" height="30" width="40" />
   </a>
@@ -55,14 +55,9 @@
   />
 </picture>
 
-<!--- 🌱 I’m currently learning the Software Engineering 
+<!--- 🌱 hi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - --->
-
-<!---
-1Jawahir-Ali/1Jawahir-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
