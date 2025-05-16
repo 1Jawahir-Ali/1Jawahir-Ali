@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1jawahir-ali&label=Profile%20views&color=0e75b6&style=flat" alt="1jawahir-ali" /> </p>
 
 
-- 🌱 I’m currently learning **C++ Language**
+- 🌱**C++ Language**
 
 - 👯 I’m looking to collaborate on the projet by using concept of Object Oriented Programming.
 
