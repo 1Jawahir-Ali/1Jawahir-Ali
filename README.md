@@ -24,7 +24,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1jawahir-ali&show_icons=true&locale=en&layout=compact" alt="1jawahir-ali" /></p>-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1jawahir-ali&show_icons=true&locale=en&layout=compact" alt="muntazir-43" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1jawahir-ali&show_icons=true&locale=en&layout=compact" alt="jawahir-43" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1jawahir-ali&show_icons=true&locale=en" alt="1jawahir-ali" /></p>
 <br>
