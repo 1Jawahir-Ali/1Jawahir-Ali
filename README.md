@@ -9,7 +9,7 @@
 
 - 🌱**C++ Language**
 
-- 👯 I’m looking to collaborate on the projet by using concept of Object Oriented Programming.
+concept of Object Oriented Programming.
 
 
 - 📫 How to reach me **jawahirmehboob975@gmail.com**
@@ -21,12 +21,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
+<h3> Mostly used Language </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1jawahir-ali&show_icons=true&locale=en&layout=compact" alt="jawahir-43" />
 </p>
+<h3>Git HubStats</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1jawahir-ali&show_icons=true&locale=en" alt="1jawahir-ali" /></p>
 <br>
+<h3>Git Overview</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1jawahir-ali&" alt="1jawahir-ali" /></p>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" height="30" width="40" />
   </a>
@@ -36,7 +38,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="Coding GIF">
-<!---  <p><em>Let’s create impactful solutions together!</em></p>-->
+ <p><em>Let’s create impactful solutions together!</em></p>
 </di>
 
  ## ✍ Quote of the Day
