@@ -8,7 +8,9 @@
 
 
 - 🌱**C++ Language**
-- <h4 align="center"> Better Understanding leads to better Programming. </h4>
+- <h4 align="center"> 
+ <i>"Better Understanding leads to better Programming."</i>
+</h4>
   
 
 
