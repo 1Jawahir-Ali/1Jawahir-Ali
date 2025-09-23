@@ -1,19 +1,19 @@
 ![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
 
 ## About me: 
-  <h2 align="center">Hi 👋, I'm Jawahir Ali</h2>
-  <h3 align="center">Software Engineering Student  at the University of Azad Jammu and Kashmir,Muzaffarabad </h3>
+<h2 align="center">Hi 👋, I'm Jawahir Ali</h2>
+<h3 align="center">Software Engineering Student at the University of Azad Jammu and Kashmir,Muzaffarabad</h3>
 <img align="right" alt="Coding"                         width="400"src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1jawahir-ali&label=Profile%20views&color=0e75b6&style=flat" alt="1jawahir-ali" /> </p>
 
 
 - 🌱**C++ Language**
-<h2 align="center"> <i><b> "  Better Understanding leads to better Programming."</b></i>
-</h2>
+<h4 align="center"><i><b>"Better Understanding leads to better Programming."</b></i>
+</h4>
   
 
 
-- 📫 How to reach me **jawahirmehboob975@gmail.com**
+- 📫**How to reach me** **jawahirmehboob975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
